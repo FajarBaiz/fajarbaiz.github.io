@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on fajarspace</title>
+    <link>https://fajars.space/categories/</link>
+    <description>Recent content in Categories on fajarspace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fajars.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hacking</title>
+      <link>https://fajars.space/categories/hacking/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fajars.space/categories/hacking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
